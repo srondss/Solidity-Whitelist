@@ -198,9 +198,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Youssef's NFT collection!</h1>
+          <h1 className={styles.title}>Welcome to Youssefs NFT collection!</h1>
           <div className={styles.description}>
-            Y'all are gonna love it :).
+            You are going to love it.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
@@ -213,7 +213,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by your's truly.
+        Made with &#10084; by Youssef Srondy.
       </footer>
     </div>
   );
